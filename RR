@@ -1,6 +1,6 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/syaiful/103.180.124.90
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/800px-DAAI_TV_Jakarta.png" group-title="VISION+",HBO CUB
+#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/syaiful/
+#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/75/Indosiar_Karya_Media.png/220px-Indosiar_Karya_Media.png" group-title="VISION+",HBO CUB
 https://alpukat-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
