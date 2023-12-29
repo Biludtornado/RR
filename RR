@@ -20,4 +20,11 @@ https://alpukat-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="VISION+",RTTT
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VSHfjjc/Bein-4.png" group-title="#🇮🇩JUARA TV🇮🇩#",BeIN Sports 4 AIS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
+#KODIPROP:inputstream.adaptive.license_key=hhttps://tv.ariev.workers.dev/syaiful/103.180.124.90
+
+https://alpukat-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+
 https://alpukat-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd?|User-Agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"|license_type=com.widevine.alpha&license_key=https://tv.ariev.workers.dev/syaiful/103.180.124.90
