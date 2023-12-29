@@ -16,7 +16,7 @@ ttps://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68565fa79ce01665868040a
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="VISION+",RTTT
 https://alpukat-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
