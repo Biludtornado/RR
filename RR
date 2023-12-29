@@ -6,7 +6,7 @@
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://yt3.ggpht.com/baA5YNs6v_RUpF72_GUfyK1fCGXKUPFWBfwg0MKxKfKskevRIZ616WTIvWscRms9CxEr5uoD5_g=s48-c-k-c0x00ffffff-no-rj",ID: ANTV
-#EXTVLCOPT:http-referrer=https://alpukat-live-cdn.mncnow.id
+#EXTVLCOPT:http-referrer=https://alpukat-live-cdn.mncnow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
 #KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/syaiful/103.180.124.90
