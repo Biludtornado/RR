@@ -1,1 +1,6 @@
-https://ariev.vercel.app/api?pw=syaiful
+#EXTINF:-1 group-title="#🇮🇩JUARA TV🇮🇩#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.pnghttps://i.imgur.com/Vtk2cGI.png", beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://cdnjkt2.transvision.co.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=syaiful
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
