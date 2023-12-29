@@ -1,6 +1,12 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license 
-#KODIPROP:inputstream.adaptive.license_key=https://tv.ariev.workers.dev/
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="VISION+",HBO CUB
+#EXTINF:0 tvg-country="ID" tvg-logo="https://sindymaulia.files.wordpress.com/2016/12/trans-7-logo.png?w=357" group-title="🇮🇩Indonesia",ID: Trans 7
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://assets.kompasiana.com/statics/crawl/555e4f690423bd676b8b4567.png?t=o&v=770" group-title="🇮🇩Indonesia",ID: Trans TV
+https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/transtv.m3u8
+
+#EXTINF:-1 group-title="#🇮🇩Indonesia#" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/RCTI_2015.png/revision/latest/scale-to-width-down/300?cb=20210317155829",ID: RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://alpukat-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
