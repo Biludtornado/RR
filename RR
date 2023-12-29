@@ -19,7 +19,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://alpukat-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png",ID: HBO
-#EXTVLCOPT:http-referrer=https://cdnjkt2.transvision.co.id
+#EXTVLCOPT:http-referrer=https://transvision.co.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
 #KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=syaiful
