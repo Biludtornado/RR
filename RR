@@ -1,5 +1,9 @@
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://assets.kompasiana.com/statics/crawl/555e4f690423bd676b8b4567.png?t=o&v=770" group-title="🇮🇩Indonesia",ID: Trans TV
-https://filmovie.github.io/Ze380Tu0d/u5gZf665rt/transtv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/541aydqr502xl5z/mnctv.png", MNC TV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/RCTI_2015.png/revision/latest/scale-to-width-down/300?cb=20210317155829",ID: RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
